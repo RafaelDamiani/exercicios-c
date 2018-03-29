@@ -7,9 +7,16 @@
 
 # Object files
 *.o
-*.cpp*.layout*.dev*.ko
+
+*.cpp
+*.layout
+*.dev
+*.ko
+
 *.obj
+
 *.elf
+
 
 # Linker output
 *.ilk

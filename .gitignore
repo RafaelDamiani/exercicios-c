@@ -7,7 +7,7 @@
 
 # Object files
 *.o
-*.ko
+*.cpp*.layout*.dev*.ko
 *.obj
 *.elf
 
